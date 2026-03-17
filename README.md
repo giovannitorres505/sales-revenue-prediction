@@ -1,6 +1,8 @@
 # sales-revenue-prediction
 🇺🇸 English Version
 Sales Revenue Prediction
+
+
 This project utilizes machine learning techniques to predict total sales revenue based on various product and customer features.
 
 Project Objective
@@ -29,6 +31,8 @@ Error Analysis: Direct comparison between real and predicted values shows minima
 
 🇧🇷 Versão em Português
 Previsão de Receita de Vendas
+
+
 Este projeto utiliza técnicas de aprendizado de máquina para prever a receita total de vendas com base em diversas características de produtos e clientes.
 
 Objetivo do Projeto
